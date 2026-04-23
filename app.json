@@ -1,5 +1,8 @@
 {
   "expo": {
+    "updates": {
+      "enabled": false
+    },
     "name": "my-app",
     "slug": "my-app",
     "version": "1.0.0",
